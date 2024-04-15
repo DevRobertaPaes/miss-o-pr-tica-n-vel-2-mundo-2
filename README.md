@@ -30,6 +30,18 @@ abordadas.
 👉 1º Procedimento | Ordenando com Java Script e
 DOM
 
+## Como executar
+1. Clone o repositório: 
+```bash
+git clone https://github.com/DevRobertaPaes/missao-pratica-nivel-2-mundo-2
+```
+2. Abra o código no seu VS Code.
+
+3. Dependendo da IDE, talvez seja necessário criar um ambiente. Aperte CTRL+SHIFT+P e escolha o ambiente de execução.
+
+3. Instale as bibliotecas necessárias para execução do projeto no VS Code, tais como :
+
+
     
 
 
