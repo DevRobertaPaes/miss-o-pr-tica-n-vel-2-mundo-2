@@ -39,7 +39,9 @@ git clone https://github.com/DevRobertaPaes/missao-pratica-nivel-2-mundo-2
 
 3. Dependendo da IDE, talvez seja necessário criar um ambiente. Aperte CTRL+SHIFT+P e escolha o ambiente de execução.
 
-3. Instale as bibliotecas necessárias para execução do projeto no VS Code, tais como :
+3. Instale as bibliotecas necessárias para execução do projeto no VS Code, tais como : Live Server, json, JavaScript (ES6),HTML CSS Support.
+
+
 
 
     
