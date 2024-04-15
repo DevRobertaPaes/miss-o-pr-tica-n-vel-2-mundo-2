@@ -11,7 +11,7 @@ você terá experimentado diversas formas de utilização do
 Java Script no lado cliente, tornando-se capacitado para
 lidar com contextos reais de aplicação das tecnologias
 abordadas.
-
+````
     Explorar a sintaxe Java Script na implementação de
     algoritmos;
     Manipular os elementos da página através do DOM;
@@ -19,3 +19,18 @@ abordadas.
     de dados;
     Utilizar framework VUE JS na construção dinâmica de
     elementos HTML.
+````
+## Materiais necessários para a prática
+
+```
+    Computador com acesso à internet;
+    Editor de código Visual Studio Code;
+    Navegador de internet instalado no computador.
+```
+👉 1º Procedimento | Ordenando com Java Script e
+DOM
+
+    
+
+
+
