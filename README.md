@@ -40,7 +40,7 @@ Abaixo temos os botões lado a lado : Ordenar (que ordena os números) e Mistura
            
 1.3- Clone o repositório:👇
 ```bash
-(https://github.com/DevRobertaPaes/missaopratica2)
+(https://github.com/DevRobertaPaes/missao-pratica-nivel-2-mundo-2)
 ```
 Com os arquivos abertos no VS Code, Click com o mouse, abra o arquivo (ordenando.html) e depois click com o mouse(lado direito) em cima do nome do arquivo - aparecerá - Open with live server- click e o arquivo será aberto em uma página da internet.
 
